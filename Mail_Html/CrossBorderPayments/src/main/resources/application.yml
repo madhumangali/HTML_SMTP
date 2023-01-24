@@ -1,0 +1,10 @@
+#server:
+#  port: 8095
+#  servlet:
+#    context-path: /CrossBorderPayments
+#
+#spring:
+#  application:
+#    name: CrossBorderPayments
+#  profiles:
+#    active: local
